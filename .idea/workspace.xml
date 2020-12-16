@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48696187-844f-462d-9077-f3424c770cd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/carousel.html" afterDir="false" />
+    <list default="true" id="48696187-844f-462d-9077-f3424c770cd4" name="Default Changelist" comment="jul">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5G.html" beforeDir="false" afterPath="$PROJECT_DIR$/5G.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +47,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607951612946</updated>
-      <workItem from="1607951614121" duration="24543000" />
+      <workItem from="1607951614121" duration="28184000" />
     </task>
+    <task id="LOCAL-00001" summary="n">
+      <created>1608153072120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608153072120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="n" />
+    <MESSAGE value="jul" />
+    <option name="LAST_COMMIT_MESSAGE" value="jul" />
   </component>
 </project>
